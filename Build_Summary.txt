@@ -1,0 +1,12 @@
+1) What’s your earliest tech memory?
+I remember when AOL came out and I was so excited to be online connecting with other. The internet seemed like a magical space.
+
+2) Do you have a unique talent and/or experience that is immediately memorable (even if not tech-based)?
+I am a violinist.
+I am good at getting grant funding. I am good at turning research questions into actionable items (abstract --> concrete) 
+
+3) What caused you to want to pivot towards Data Science/Software Engineering?
+I am a social science researcher. While my quantitative training is strong, I am limited in my technical ability. As the size and type of data available for research grows, I want my skillset to keep pace. I want to be able to wrangle all tpyes of data in order to make inferences.
+
+4) What aspects of the industry are you passionate about?
+I am passionate about doing rigorous research.
